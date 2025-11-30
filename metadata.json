@@ -1,0 +1,5 @@
+{
+  "name": "SkillChain",
+  "description": "AI-powered resume verification system built on the Cardano blockchain. Eliminates fake skill claims using Gemini AI and decentralized identity.",
+  "requestFramePermissions": []
+}
